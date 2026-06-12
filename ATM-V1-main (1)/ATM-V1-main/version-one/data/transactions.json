@@ -1,0 +1,121 @@
+[
+  {
+    "amount": 50,
+    "receipt": true,
+    "time": "2026-02-05T01:49:36.186924",
+    "type": "DEPOSIT",
+    "username": "alice"
+  },
+  {
+    "amount": 100,
+    "receipt": true,
+    "time": "2026-02-05T01:52:48.464118",
+    "type": "WITHDRAW",
+    "username": "alice"
+  },
+  {
+    "amount": 100,
+    "receipt": true,
+    "time": "2026-02-05T01:54:21.079250",
+    "type": "WITHDRAW",
+    "username": "alice"
+  },
+  {
+    "amount": 100,
+    "receipt": false,
+    "time": "2026-02-05T02:21:35.140181",
+    "type": "TRANSFER",
+    "username": "alice"
+  },
+  {
+    "amount": 200,
+    "receipt": true,
+    "time": "2026-06-07T02:58:11.050370900",
+    "type": "DEPOSIT",
+    "username": "alice"
+  },
+  {
+    "amount": 100,
+    "receipt": true,
+    "time": "2026-06-07T03:58:41.901744400",
+    "type": "DEPOSIT",
+    "username": "john"
+  },
+  {
+    "amount": 100,
+    "receipt": false,
+    "time": "2026-06-07T03:59:26.601639800",
+    "type": "TRANSFER",
+    "username": "john"
+  },
+  {
+    "amount": 50,
+    "receipt": false,
+    "time": "2026-06-07T04:23:59.775130300",
+    "type": "WITHDRAW",
+    "username": "charl"
+  },
+  {
+    "amount": 100,
+    "receipt": true,
+    "time": "2026-06-07T23:47:51.235941500",
+    "type": "DEPOSIT",
+    "username": "john"
+  },
+  {
+    "amount": 50,
+    "receipt": false,
+    "time": "2026-06-07T23:47:51.254985300",
+    "type": "WITHDRAW",
+    "username": "john"
+  },
+  {
+    "amount": 25,
+    "receipt": false,
+    "time": "2026-06-07T23:47:51.265614200",
+    "type": "TRANSFER",
+    "username": "john"
+  },
+  {
+    "amount": 100,
+    "receipt": true,
+    "time": "2026-06-07T23:50:00.468069500",
+    "type": "WITHDRAW",
+    "username": "john"
+  },
+  {
+    "amount": 100,
+    "receipt": true,
+    "time": "2026-06-07T23:50:49.226758200",
+    "type": "WITHDRAW",
+    "username": "john"
+  },
+  {
+    "amount": 100,
+    "receipt": true,
+    "time": "2026-06-08T00:05:22.017470300",
+    "type": "DEPOSIT",
+    "username": "john"
+  },
+  {
+    "amount": 50,
+    "receipt": false,
+    "time": "2026-06-08T00:05:22.040374600",
+    "type": "WITHDRAW",
+    "username": "john"
+  },
+  {
+    "amount": 25,
+    "receipt": false,
+    "time": "2026-06-08T00:05:22.054808800",
+    "type": "TRANSFER",
+    "username": "john"
+  },
+  {
+    "amount": 50,
+    "receipt": true,
+    "time": "2026-06-08T01:03:01.283169300",
+    "type": "DEPOSIT",
+    "username": "john"
+  }
+]

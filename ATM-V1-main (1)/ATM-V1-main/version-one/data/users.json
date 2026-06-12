@@ -1,0 +1,30 @@
+[
+  {
+    "pin": "1111",
+    "balance": 400,
+    "failedAttempts": 0,
+    "locked": false,
+    "username": "john"
+  },
+  {
+    "pin": "2222",
+    "balance": 1100,
+    "failedAttempts": 0,
+    "locked": false,
+    "username": "alice"
+  },
+  {
+    "pin": "3333",
+    "balance": 350,
+    "failedAttempts": 0,
+    "locked": false,
+    "username": "bob"
+  },
+  {
+    "pin": "4444",
+    "balance": 1950,
+    "failedAttempts": 0,
+    "locked": false,
+    "username": "charl"
+  }
+]
